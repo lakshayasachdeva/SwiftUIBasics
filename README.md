@@ -47,7 +47,7 @@ Topics covered in this are -
 43. Dark mode
 44. onAppear function
 45. Tap gesture
-46. @SateObject and ObservableObject
+46. @SateObject, @ObservedObject and ObservableObject (with MVVM example using view model)
 47. @EnvironmentObject
 48. AppStorage
 49. IntroView - application of AppStorage
