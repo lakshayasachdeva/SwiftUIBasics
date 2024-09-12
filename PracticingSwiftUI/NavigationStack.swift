@@ -101,4 +101,11 @@ struct Screen2: View {
  Navigation has been deprecated so better use NavigaitonStack instead...
  
  NavigationView loads all the screens beforehand... refer to above example...
+ 
+ with stackPath we can pop screens also and if we want to pop to the last screen which is  the root screen then in that case we will just pass stackPath = NavigationPath()
+ 
+ to pop last screen from the stack in that case we will do stackPath.removeLast()
+ 
+ to append new screen or path
+ stackPath.append("...")
  */

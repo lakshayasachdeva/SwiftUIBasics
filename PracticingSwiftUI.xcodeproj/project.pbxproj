@@ -78,6 +78,7 @@
 		5C4AA5C92C84971C00389F4D /* Popover.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4AA5C82C84971C00389F4D /* Popover.swift */; };
 		5C4AA5CB2C849D3100389F4D /* NavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4AA5CA2C849D3100389F4D /* NavigationView.swift */; };
 		5C4AA5CD2C84B66900389F4D /* ListPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C4AA5CC2C84B66900389F4D /* ListPractice.swift */; };
+		5C8F1A132C9305AA00ED6BBC /* GeometryReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C8F1A122C9305AA00ED6BBC /* GeometryReader.swift */; };
 		5CA6B5112C8ECAD100A501C8 /* ViewThatFits.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA6B5102C8ECAD100A501C8 /* ViewThatFits.swift */; };
 		5CA6B5132C8ECD6900A501C8 /* NavSplitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA6B5122C8ECD6900A501C8 /* NavSplitView.swift */; };
 		5CA6B5152C8ECECD00A501C8 /* GridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CA6B5142C8ECECD00A501C8 /* GridView.swift */; };
@@ -178,6 +179,7 @@
 		5C4AA5C82C84971C00389F4D /* Popover.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Popover.swift; sourceTree = "<group>"; };
 		5C4AA5CA2C849D3100389F4D /* NavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationView.swift; sourceTree = "<group>"; };
 		5C4AA5CC2C84B66900389F4D /* ListPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListPractice.swift; sourceTree = "<group>"; };
+		5C8F1A122C9305AA00ED6BBC /* GeometryReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReader.swift; sourceTree = "<group>"; };
 		5CA6B5102C8ECAD100A501C8 /* ViewThatFits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThatFits.swift; sourceTree = "<group>"; };
 		5CA6B5122C8ECD6900A501C8 /* NavSplitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavSplitView.swift; sourceTree = "<group>"; };
 		5CA6B5142C8ECECD00A501C8 /* GridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridView.swift; sourceTree = "<group>"; };
@@ -308,6 +310,7 @@
 				5CA6B51A2C8ED95F00A501C8 /* ObservableMacro.swift */,
 				5C4AA56E2C7F422E00389F4D /* Assets.xcassets */,
 				5C4AA5702C7F422E00389F4D /* Preview Content */,
+				5C8F1A122C9305AA00ED6BBC /* GeometryReader.swift */,
 			);
 			path = PracticingSwiftUI;
 			sourceTree = "<group>";
@@ -538,6 +541,7 @@
 				5C4AA5B72C837A0500389F4D /* StatePractice.swift in Sources */,
 				5C4AA5CD2C84B66900389F4D /* ListPractice.swift in Sources */,
 				5C4AA5A52C81FF7700389F4D /* StacksPractice.swift in Sources */,
+				5C8F1A132C9305AA00ED6BBC /* GeometryReader.swift in Sources */,
 				5C1562EB2C887613004049A1 /* DatePicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
